@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/sandeep-sarma-24/sandeep-sarma-24/main/Header%20For%20Github%20%20Linkedln.png)](https://www.linkedin.com/in/sandeep24sarma)
+[![MasterHead](https://github.com/sandeep-sarma-24/sandeep-sarma-24/blob/main/Header%20For%20Github%20%20Linkedln_page-0001.jpg?raw=true)](https://www.linkedin.com/in/sandeep24sarma)
 
 <h1 align="center">Hi 👋, I'm Sandeep Sarma</h1>
 <h3 align="center">A passionate FullStack developer</h3>
