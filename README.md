@@ -1,7 +1,7 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQHeIHchx_m1DQ/profile-displaybackgroundimage-shrink_350_1400/0/1601073738284?e=1671667200&v=beta&t=9dOGnC_ASBpr5YIFsvqyvpdpzG0yRHAitMVsR5upasQ)](https://www.linkedin.com/in/sandeep24sarma)
+[![MasterHead](https://raw.githubusercontent.com/sandeep-sarma-24/sandeep-sarma-24/main/Header%20For%20Github%20%20Linkedln.png)](https://www.linkedin.com/in/sandeep24sarma)
 
-<h1 align="center">Hi 👋, I'm Inguva Venkata Sandeep Sarma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sandeep Sarma</h1>
+<h3 align="center">A passionate FullStack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-sarma-24&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-sarma-24" /> </p>
 
