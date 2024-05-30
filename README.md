@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently working on [URL Shortner](https://github.com/sandeep-sarma-24/url-shortner)
 - 🌱 I’m currently learning **TypeScript, Nextjs and Golang**
-- 👨‍💻 All of my projects are available at [localhost:3000/](http://localhost:3000/)
-- 📝 I regularly write articles on [localhost:3000/article](http://localhost:3000/article)
+- 👨‍💻 All of my projects are available at [https://exquisite-frangipane-e30a59.netlify.app/projects](https://exquisite-frangipane-e30a59.netlify.app/projects)
+- 📝 I regularly write articles on [https://exquisite-frangipane-e30a59.netlify.app/articles](https://exquisite-frangipane-e30a59.netlify.app/articles)
 - 💬 Ask me about **JavaScript, Python, C/C++, Node, Express and Linux**
 - 📫 How to reach me **sandeepvsarma@gmail.com**
 - 📄 Know about my experiences [My Resume](https://github.com/sandeep-sarma-24/sandeep-sarma-24/blob/ab59c30826cdd846e8b28975ad3cf9e68d676989/MyResume.pdf)
